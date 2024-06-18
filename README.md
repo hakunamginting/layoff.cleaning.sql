@@ -1,4 +1,4 @@
-# layoff.cleaning.sql
+# Dataset Cleaning with MySql
 Hi everyone,
 
 I am thrilled to share my very first project after diving into the world of MySQL: Data Cleaning with the Layoff Dataset. This project represents a significant milestone in my journey towards becoming a data scientist.
